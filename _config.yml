@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS 7650
-tagline: CS 7650 - Natural Language Processing
+title: CS 4650
+tagline: CS 4650 - Natural Language Processing
 description: 
 author:
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-baseurl: '/CS-7650-sp22' # the subpath of your site, e.g. /blog
+baseurl: '/CS-4650-sp22' # the subpath of your site, e.g. /blog
 url: 'https://aritter.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
