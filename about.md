@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policies and Expectations
+title: Syllabus and Course Policies
 description: >-
     Course policies and information.
 ---
@@ -44,37 +44,40 @@ We are planning to record and stream lectures over BlueJeans, so it should be po
 
 ## Prerequisites
 
-This is a graduate course that covers advanced machine learning techniques for Natural Language Processing.  The course involves a lot of math and hands-on programming exercises to implement the algorithms we will discuss in the lecture.  To succeed, you need to have a very strong programming background in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
+This is an advanced undergraduate course on Natural Language Processing.  Modern NLP is based heavily on Machine Learning and Deep Learning.  This course involves a lot of math and hands-on programming exercises to implement the algorithms we will discuss in the lecture.  To succeed, you need to have a very strong programming background, in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
 
-There will be a math background review (due in the 1st week) and a programming homework (due in the 4th week).
-If you find these problems difficult, you should expect a lot of extra work and challenges to catch up – we strongly suggest you wait and take this class in a later semester.
+There will be a math background test (due in the 1st week) and a warmup programming assignment due shortly afterward.
+If you find these problems difficult, you should expect a lot of extra work and challenges to catch up – we strongly suggest you wait and take this class in a later semester.  Please reach out to the
+course staff to discuss whether you have the right background to succeed in this course if there are any symbols or concepts on these assignments which you are unfamiliar with.
 
 (**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit Problem Set 1, which is due during the first week.  Please post a private Piazza message to get the access code to access Gradescope.)
 
 ## Assignments / Grading
 
 Graded work will include written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due.
-Please email your homework to the instructor in case of technical issues with submission.
+Please email your homework to the instructor in case of any technical issues with submission.
 
-Each student will have 3 flexible days to turn in late homework throughout the semester. The late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late. These 3 late days are meant for personal emergencies; if you use late days for non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final project, due to the tight deadline for posting the final grades as required by the university.
+Each student will have six flexible days to turn in late homework throughout the semester. The late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late.
+Late days and penalties handled in in units of days - there are no ``half'' late days.  Late penalties are also applied to the entire assignment, so it is not possible to turn part of an assignment on time and the other part late.
+These six late days are meant for personal emergencies; if you use late days for non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final course project, due to the tight deadline for posting final grades as required by the university.
 
 All homework will be rescaled proportionally into a final numerical grade, which will then be mapped to letter grade according to a cutoff based on the overall class grade distribution. The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these. The cutoffs will only be determined after we grade the final project at the end of the semester.
 
 ### Programming Assignments (Projects) - 40%
 
-We plan to assign three programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [Numpy](https://numpy.org/) and [Pytorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
+We plan to assign four programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [Numpy](https://numpy.org/) and [Pytorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
 
 ### Written Assignments (Problem Sets) - 20%
 
-The written assignments will mostly be mathematical.  You can scan and upload your solution to Gradescope.  Please write answers clearly, since we won't be able to provide credit for answers that we are not legible.
+Written assignments will mostly be mathematical.  You can scan and upload your solutions to Gradescope.  Please write answers clearly, as we won't be able to award credit for answers that we are not legible.
 
 ### Midterm Exam - 15%
 
-The midterm will be similar in format to the written assignments (problem sets). We will be actively monitoring the situation of the pandemic, and decide accordingly to have the exam in-person or taken-home.
+The midterm will be similar in format to the written assignments (problem sets).
 
 ### Participation - 5%
 
-You will receive credit for asking and answering thoughtful questions related to the course content on Piazza, engaging in discussion in class and generally for participating in the class.  There are many ways to show participation in the class.  Asking a question that is marked as a "good question" by an instructor on Piazza, or having an answer that is marked as an "endorsed answer" is one example.  Please be polite and respectful towards TAs and other students in the class.
+You will receive credit for asking and answering thoughtful questions related to the course content on Piazza, engaging in discussion in class and generally for participating in the class.  There are many ways to show participation.  Asking a question that is marked as a ``good question'' by an instructor on Piazza, or having an answer that is marked as an ``endorsed answer'' is one example.  Please be polite and respectful towards TAs and other students in the class.
 
 ### Final Project - 20%
 
