@@ -34,7 +34,7 @@ We **highly** recommend signing up for [Colab Pro](https://colab.research.google
 
 ## Attendance
 
-We are planning to record and stream lectures over BlueJeans, so it should be possible to attend the course remotely if you like.  Please wear a mask if you decide to attend class in person, out of respect for others.  This will help make the classroom a safe environment for everyone (especially those who may have underlying health conditions or be living with those who do).
+We are planning to record and stream lectures over Zoom, so it should be possible to attend the course remotely if you like.  Please wear a mask if you attend class in person, out of respect for others.  This will help make the classroom a safe environment for everyone (especially those who may have underlying health conditions or be living with those who do).
 
 ## Resources
 
