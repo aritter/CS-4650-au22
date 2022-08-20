@@ -51,22 +51,22 @@ course staff to discuss whether you have the right background to succeed in this
 
 ## Assignments / Grading
 
-Graded work will include written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due.
-Please email your homework to the instructor in case of any technical issues with submission.
+Graded work will include written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due, unless otherwise noted.
+Please email your homework to the instructor and cc the TAs, in case of any technical issues with submission.
 
-Each student will have six flexible days to turn in late homework throughout the semester. The late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late.
-Late days and penalties handled in in units of days - there are no ``half'' late days.  Late penalties are also applied to the entire assignment, so it is not possible to turn part of an assignment on time and the other part late.
+Each student will have six flexible days to turn in late homework throughout the semester. Late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day further assignments are handed in late.
+Late days and penalties managed in in units of days - there are no ``half'' late days, etc.  Late penalties are also applied to the entire assignment, so it is not possible to turn part of an assignment on time and the other part late.
 These six late days are meant for personal emergencies; if you use late days for non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final course project, due to the tight deadline for posting final grades as required by the university.
 
-All homework will be rescaled proportionally into a final numerical grade, which will then be mapped to letter grade according to a cutoff based on the overall class grade distribution. The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these. The cutoffs will only be determined after we grade the final project at the end of the semester.
+All graded components of the course will be rescaled proportionally into a final numerical grade, which will be mapped to letter grade according to a cutoff based on the overall class grade distribution.The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these.  These cutoffs can only be determined after we grade the final project at the end of the semester.
 
 ### Programming Assignments (Projects) - 40%
 
-We plan to assign four programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [Numpy](https://numpy.org/) and [Pytorch](https://pytorch.org/).  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides free access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
+We plan to assign four programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of the [Numpy](https://numpy.org/) and [Pytorch](https://pytorch.org/) libraries.  These programming projects will require non-trivial computation; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline.  If you start working on an assignment the day before it is due, it is highly unlikely you will be able to complete it on time.
 
 ### Written Assignments (Problem Sets) - 20%
 
-Written assignments will mostly be mathematical.  You can scan and upload your solutions to Gradescope.  Please write answers clearly, as we won't be able to award credit for answers that we are not legible.
+Written assignments are mostly be mathematical.  You can scan and upload your solutions to Gradescope.  Please write answers clearly, as we won't be able to award credit for answers that we are not legible.
 
 ### Midterm Exam - 15%
 
@@ -78,7 +78,7 @@ You will receive credit for asking and answering thoughtful questions related to
 
 ### Final Project - 20%
 
-The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor to get feedback.  The final project report should be 4 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
+The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor and/or TAs to get feedback.  The final project report should be 4 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
 
 The grading rubric for the final project is as follows:
 
