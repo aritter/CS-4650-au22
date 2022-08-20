@@ -16,9 +16,6 @@ description: >-
 
 ---
 
-## Lecture
-Mondays, Wednesdays 2:00-3:15pm
-
 ## Textbook(s)
 
 There are two excellent NLP textbooks that are freely available online. Readings will be assigned from both.  There is value in seeing multiple perspectives on the same material. If a concept you encounter seems confusing at first, try reading about it in the other book to get a different perspective.
