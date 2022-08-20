@@ -1,5 +1,5 @@
 ---
-layout: module
+layout: home
 title: CS 4650
 nav_exclude: true
 seo:
