@@ -2,9 +2,11 @@
 title: Schedule
 ---
 
-Jan 10
-: [Course Introduction](https://aritter.github.io/CS-7650-sp22/slides/lec1-intro.pdf)
+Aug 22
+: [Course Introduction](https://aritter.github.io/CS-4650-au22/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+<!---
 
 Jan 12
 : [Machine Learning](https://aritter.github.io/CS-7650-sp22/slides/lec2-ml.pdf)
@@ -111,8 +113,6 @@ April 20
 
 May 4
 : Final Project Reports Due
-
-<!---
 
 Mar 24
 : Mid-Semester Break (no class)
