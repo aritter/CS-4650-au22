@@ -54,7 +54,7 @@ course staff to discuss whether you have the right background to succeed in this
 Graded work will include written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due, unless otherwise noted.
 Please email your homework to the instructor and cc the TAs, in case of any technical issues with submission.
 
-Each student will have six flexible days to turn in late homework throughout the semester. Late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day further assignments are handed in late.
+Each student will have six flexible days to turn in late homework throughout the semester. Late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework three days late and the second homework three days late without any penalty. After that you will loose 20% for each day further assignments are handed in late.
 Late days and penalties managed in in units of days - there are no ``half'' late days, etc.  Late penalties are also applied to the entire assignment, so it is not possible to turn part of an assignment on time and the other part late.
 These six late days are meant for personal emergencies; if you use late days for non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final course project, due to the tight deadline for posting final grades as required by the university.
 
