@@ -7,14 +7,14 @@ Aug 22
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 24
-: [Machine Learning](https://aritter.github.io/CS-7650-sp22/slides/lec2-ml.pdf)
+: [Machine Learning]()
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 25
 : [Problem Set 0](https://aritter.github.io/CS-4650-au22/slides/pset0.pdf) due
 
 Aug 29
-: [Machine Learning (multi-class) ](https://aritter.github.io/CS-7650-sp22/slides/lec3-mcc.pdf) (cont)
+: [Machine Learning (multi-class) ]() (cont)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sept 2
