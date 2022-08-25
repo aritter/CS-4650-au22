@@ -17,7 +17,7 @@ Aug 29
 : [Machine Learning (multi-class) ]() (cont)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Sept 2
+Sept 6
 : [Project 0](https://colab.research.google.com/drive/1Iw73xF8KLH8afGGnYTR_H_IH9RNTQ7sq?usp=sharing) due
 
 <!---
