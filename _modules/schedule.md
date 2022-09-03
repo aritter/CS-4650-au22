@@ -24,6 +24,10 @@ Aug 31
 Sept 6
 : [Project 0](https://colab.research.google.com/drive/1Iw73xF8KLH8afGGnYTR_H_IH9RNTQ7sq?usp=sharing) due
 
+Sept 7
+: Multi-Class ML (cont.) and [Neural Networks in NLP](https://aritter.github.io/CS-7650-sp22/slides/lec6-nn.pdf)
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+
 <!---
 
 
