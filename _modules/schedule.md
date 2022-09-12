@@ -39,7 +39,8 @@ Sept 14
 Sept 15
 : Problem Set 1 Due
 
-
+Sept 27
+: [Project 1 Due](https://colab.research.google.com/drive/1fgv0W0YMN6kRby7dMa1US_49L-S-Xbj4?usp=sharing)
 
 <!---
 
