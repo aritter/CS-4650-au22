@@ -17,7 +17,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-Although this is an in-person course, we plan to stream and record lectures using Zoom.  The link is available [here](https://gatech.zoom.us/j/93717817219?pwd=Vlpnc0Q5WVlQVUU1ZEJsLzltWnY1Zz09).
+Although this is an in-person course, we plan to stream lectures using Zoom.  The link is available [here](https://gatech.zoom.us/j/93717817219?pwd=Vlpnc0Q5WVlQVUU1ZEJsLzltWnY1Zz09).
 
 - Location: Klaus Advanced Computing 2443
 - Time: MW 5:00 pm - 6:15 pm
