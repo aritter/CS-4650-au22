@@ -18,14 +18,14 @@ Aug 29
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 31
-: [Machine Learning (multi-class) ](https://aritter.github.io/CS-7650-sp22/slides/lec3-mcc.pdf) (cont)
+: [Machine Learning (multi-class) ](https://aritter.github.io/CS-4650-au22/slides/lec3-mcc.pdf) (cont)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sept 6
 : [Project 0](https://colab.research.google.com/drive/1Iw73xF8KLH8afGGnYTR_H_IH9RNTQ7sq?usp=sharing) due
 
 Sept 7
-: Multi-Class ML (cont.) and [Neural Networks in NLP](https://aritter.github.io/CS-7650-sp22/slides/lec6-nn.pdf)
+: Multi-Class ML (cont.) and [Neural Networks in NLP](https://aritter.github.io/CS-4650-au22/slides/lec6-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Sept 12
@@ -33,11 +33,15 @@ Sept 12
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Sept 14
-: [Sequence Models](https://aritter.github.io/CS-7650-sp22/slides/lec4-seq1.pdf) 
+: [Sequence Models](https://aritter.github.io/CS-4650-au22/slides/lec4-seq1.pdf) 
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Sept 15
 : Problem Set 1 Due
+
+Sept 19
+: [Conditional Random Fields](https://aritter.github.io/CS-4650-au22/slides/lec5-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sept 27
 : [Project 1 Due](https://colab.research.google.com/drive/1fgv0W0YMN6kRby7dMa1US_49L-S-Xbj4?usp=sharing)
@@ -46,10 +50,6 @@ Sept 27
 
 Feb 1
 : [Project 1 Due](https://colab.research.google.com/drive/1trrreCuhH0HG45gWKqUZJdtl3OyaOSzT)
-
-Feb 7
-: [Conditional Random Fields](https://aritter.github.io/CS-7650-sp22/slides/lec5-seq2.pdf)
-  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 14
 : [Word Embeddings](https://aritter.github.io/CS-7650-sp22/slides/lec7-nn2.pdf)
