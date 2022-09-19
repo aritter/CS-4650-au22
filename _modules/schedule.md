@@ -76,7 +76,7 @@ Feb 28
 
 Mar 2
 : [Encoder-Decoder Networks](https://aritter.github.io/CS-7650-sp22/slides/lec11-seqseq2.pdf)
-  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 8
 : No Class
