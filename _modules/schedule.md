@@ -43,17 +43,18 @@ Sept 19
 : [Conditional Random Fields](https://aritter.github.io/CS-4650-au22/slides/lec5-seq2.pdf)
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Sept 21
+: [Conditional Random Fields (cont)](https://aritter.github.io/CS-4650-au22/slides/lec5-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Sept 26
+: [Word Embeddings](https://aritter.github.io/CS-7650-sp22/slides/lec7-nn2.pdf)
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+
 Sept 27
 : [Project 1 Due](https://colab.research.google.com/drive/1fgv0W0YMN6kRby7dMa1US_49L-S-Xbj4?usp=sharing)
 
 <!---
-
-Feb 1
-: [Project 1 Due](https://colab.research.google.com/drive/1trrreCuhH0HG45gWKqUZJdtl3OyaOSzT)
-
-Feb 14
-: [Word Embeddings](https://aritter.github.io/CS-7650-sp22/slides/lec7-nn2.pdf)
-  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 Feb 16
 : [Recurrent Neural Networks](https://aritter.github.io/CS-7650-sp22/slides/lec8-nn3.pdf)
