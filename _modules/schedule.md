@@ -48,7 +48,7 @@ Sept 21
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Sept 26
-: [Word Embeddings](https://aritter.github.io/CS-7650-sp22/slides/lec7-nn2.pdf)
+: [Word Embeddings](https://aritter.github.io/CS-4650-au22/slides/lec7-nn2.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 Sept 27
@@ -57,7 +57,7 @@ Sept 27
 <!---
 
 Feb 16
-: [Recurrent Neural Networks](https://aritter.github.io/CS-7650-sp22/slides/lec8-nn3.pdf)
+: [Recurrent Neural Networks](https://aritter.github.io/CS-4650-au22/slides/lec8-nn3.pdf)
   : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 17
@@ -68,15 +68,15 @@ Feb 21
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 23
-: [Neural CRFs (cont.)](https://aritter.github.io/CS-7650-sp22/slides/lec9-nn4.pdf) and [Course Projects](https://aritter.github.io/CS-7650-sp22/slides/course_project.pdf)
+: [Neural CRFs (cont.)](https://aritter.github.io/CS-4650-au22/slides/lec9-nn4.pdf) and [Course Projects](https://aritter.github.io/CS-4650-au22/slides/course_project.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 28
-: [Statistical Machine Translation](https://aritter.github.io/CS-7650-sp22/slides/lec10-mt1.pdf)
+: [Statistical Machine Translation](https://aritter.github.io/CS-4650-au22/slides/lec10-mt1.pdf)
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 2
-: [Encoder-Decoder Networks](https://aritter.github.io/CS-7650-sp22/slides/lec11-seqseq2.pdf)
+: [Encoder-Decoder Networks](https://aritter.github.io/CS-4650-au22/slides/lec11-seqseq2.pdf)
   : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 8
@@ -86,30 +86,30 @@ Mar 11
 : [Project 2 Due](https://colab.research.google.com/drive/1dS210cQT4wAJIxfgoftVmAvtay0cXYd4?usp=sharing)
 
 Mar 16
-: [Neural Machine Translation, Transformers](https://aritter.github.io/CS-7650-sp22/slides/lec12-mt2.pdf)
+: [Neural Machine Translation, Transformers](https://aritter.github.io/CS-4650-au22/slides/lec12-mt2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 10.6](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Mar 28
-: [Pre-training, BERT](https://aritter.github.io/CS-7650-sp22/slides/lec13-bert.pdf)
+: [Pre-training, BERT](https://aritter.github.io/CS-4650-au22/slides/lec13-bert.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 Mar 30
-: [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-7650-sp22/slides/lec14-bart_gpt3.pdf)
+: [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-4650-au22/slides/lec14-bart_gpt3.pdf)
   : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
 Apr 4
-: [Dialogue](https://aritter.github.io/CS-7650-sp22/slides/lec16-dialogue.pdf)
+: [Dialogue](https://aritter.github.io/CS-4650-au22/slides/lec16-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 Apr 6
-: [Explanation](https://aritter.github.io/CS-7650-sp22/slides/lec21-explanation.pdf)
+: [Explanation](https://aritter.github.io/CS-4650-au22/slides/lec21-explanation.pdf)
   : [Jain and Wallace](https://arxiv.org/pdf/1902.10186.pdf), [Lipton](https://arxiv.org/pdf/1606.03490.pdf), [Rudin](https://arxiv.org/pdf/1811.10154.pdf), [LIME Blog Post](https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnostic-explanations-lime/)
 
 Apr 8
 : [Project 3 Due](https://colab.research.google.com/drive/1vClTRAlQyg-WKrctvHTIXAGsWi4X-B_U?usp=sharing)
 
 April 11
-: [Question Answering](https://aritter.github.io/CS-7650-sp22/slides/lec14-qa1.pdf)
+: [Question Answering](https://aritter.github.io/CS-4650-au22/slides/lec14-qa1.pdf)
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 Apr 13
@@ -117,14 +117,14 @@ Apr 13
   : [Ex2](https://arxiv.org/abs/2102.01335), [Retrieval](https://arxiv.org/abs/2104.05763) and [QA-Based](https://aclanthology.org/2021.acl-short.83/) slot filling.
 
 April 18
-: [Question Answering (Adversarial, Multi-Hop, etc.)](https://aritter.github.io/CS-7650-sp22/slides/lec15-qa2.pdf)
+: [Question Answering (Adversarial, Multi-Hop, etc.)](https://aritter.github.io/CS-4650-au22/slides/lec15-qa2.pdf)
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 April 19
 : Midterm Due
 
 April 20
-: [Wrapup / Multilingual / Ethics](https://aritter.github.io/CS-7650-sp22/slides/lec18-multilingual_wrapup.pdf)
+: [Wrapup / Multilingual / Ethics](https://aritter.github.io/CS-4650-au22/slides/lec18-multilingual_wrapup.pdf)
 
 May 4
 : Final Project Reports Due
