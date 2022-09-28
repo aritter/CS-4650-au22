@@ -54,11 +54,15 @@ Sept 26
 Sept 27
 : [Project 1 Due](https://colab.research.google.com/drive/1fgv0W0YMN6kRby7dMa1US_49L-S-Xbj4?usp=sharing)
 
-<!---
+Sept 28
+: [Word Embeddings (cont)](https://aritter.github.io/CS-4650-au22/slides/lec7-nn2.pdf)
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
-Feb 16
+Oct 3
 : [Recurrent Neural Networks](https://aritter.github.io/CS-4650-au22/slides/lec8-nn3.pdf)
   : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+<!---
 
 Feb 17
 : Problem Set 2 Due
