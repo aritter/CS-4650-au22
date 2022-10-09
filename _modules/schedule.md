@@ -66,22 +66,18 @@ Oct 5
 : [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650/slides/lec9-nn4.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-<!---
-
-Feb 17
-: Problem Set 2 Due
-
-Feb 21
-: [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650/slides/lec9-nn4.pdf)
-  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
-Feb 23
+Oct 10
 : [Neural CRFs (cont.)](https://aritter.github.io/CS-4650-au22/slides/lec9-nn4.pdf) and [Course Projects](https://aritter.github.io/CS-4650-au22/slides/course_project.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Feb 28
+Oct 12
+: No Class
+
+Oct 19
 : [Statistical Machine Translation](https://aritter.github.io/CS-4650-au22/slides/lec10-mt1.pdf)
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+<!---
 
 Mar 2
 : [Encoder-Decoder Networks](https://aritter.github.io/CS-4650-au22/slides/lec11-seqseq2.pdf)
