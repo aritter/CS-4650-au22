@@ -77,6 +77,9 @@ Oct 19
 : [Statistical Machine Translation](https://aritter.github.io/CS-4650-au22/slides/lec10-mt1.pdf)
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Oct 28
+: [Project 2 Due](https://colab.research.google.com/drive/1cchI2GAzj3_-wJkZHHMc1LL4qY17i0V-?usp=sharing)
+
 <!---
 
 Mar 2
