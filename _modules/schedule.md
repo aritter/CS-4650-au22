@@ -80,11 +80,11 @@ Oct 19
 Oct 28
 : [Project 2 Due](https://colab.research.google.com/drive/1cchI2GAzj3_-wJkZHHMc1LL4qY17i0V-?usp=sharing)
 
-<!---
-
-Mar 2
+Oct 24
 : [Encoder-Decoder Networks](https://aritter.github.io/CS-4650-au22/slides/lec11-seqseq2.pdf)
   : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+<!---
 
 Mar 8
 : No Class
