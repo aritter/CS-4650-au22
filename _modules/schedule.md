@@ -84,6 +84,9 @@ Oct 24
 Oct 28
 : [Project 2 Due](https://colab.research.google.com/drive/1cchI2GAzj3_-wJkZHHMc1LL4qY17i0V-?usp=sharing)
 
+Nov 22
+: [Project 3 Due](https://colab.research.google.com/drive/1Tozpm-Zoj_PWJ9Q2V5Ay4BASVJ-28Q-Z)
+  
 <!---
 
 Mar 8
