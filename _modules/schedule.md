@@ -96,6 +96,10 @@ Nov 7
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-4650-au22/slides/lec14-bart_gpt3.pdf)
   : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
+Nov 16
+: [Dialogue](https://aritter.github.io/CS-4650-au22/slides/lec16-dialogue.pdf)
+  : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
+
 Nov 22
 : [Project 3 Due](https://colab.research.google.com/drive/1539C5HgINS_boH6-jrz2JZd-gjpqGezY?usp=sharing) <b>Note: Colab notebook version updated on November 31</b>
   
@@ -105,10 +109,6 @@ Mar 8
 : No Class
 
 
-
-Apr 4
-: [Dialogue](https://aritter.github.io/CS-4650-au22/slides/lec16-dialogue.pdf)
-  : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 Apr 6
 : [Explanation](https://aritter.github.io/CS-4650-au22/slides/lec21-explanation.pdf)
