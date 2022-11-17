@@ -101,7 +101,7 @@ Nov 16
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 Nov 22
-: [Project 3 Due](https://colab.research.google.com/drive/1539C5HgINS_boH6-jrz2JZd-gjpqGezY?usp=sharing) <b>Note: Colab notebook version updated on November 31</b>
+: [Project 3 Due](https://colab.research.google.com/drive/1539C5HgINS_boH6-jrz2JZd-gjpqGezY?usp=sharing) <b>Note: Colab notebook version updated on October 31</b>
   
 <!---
 
