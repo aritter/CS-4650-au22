@@ -100,6 +100,10 @@ Nov 16
 : [Dialogue](https://aritter.github.io/CS-4650-au22/slides/lec16-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
+Nov 21
+: [Question Answering](https://aritter.github.io/CS-4650-au22/slides/lec18-qa.pdf)
+  : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
+
 Nov 22
 : [Project 3 Due](https://colab.research.google.com/drive/1539C5HgINS_boH6-jrz2JZd-gjpqGezY?usp=sharing) <b>Note: Colab notebook version updated on October 31</b>
   
@@ -116,10 +120,6 @@ Apr 6
 
 Apr 8
 : [Project 3 Due](https://colab.research.google.com/drive/1vClTRAlQyg-WKrctvHTIXAGsWi4X-B_U?usp=sharing)
-
-April 11
-: [Question Answering](https://aritter.github.io/CS-4650-au22/slides/lec14-qa1.pdf)
-  : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 Apr 13
 : Guest Lecture by [Luheng He](https://research.google/people/LuhengHe/) (Google AI Language)
