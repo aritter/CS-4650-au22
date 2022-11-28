@@ -106,13 +106,17 @@ Nov 21
 
 Nov 22
 : [Project 3 Due](https://colab.research.google.com/drive/1539C5HgINS_boH6-jrz2JZd-gjpqGezY?usp=sharing) <b>Note: Colab notebook version updated on October 31</b>
+
+Nov 28
+: [Wrapup / QA / Ethics](https://aritter.github.io/CS-4650-au22/slides/lec18-qa_wrapup.pdf)
+
+Nov 30
+: [Virutal Guest lecture by Jack Hessel (AI2)](https://jmhessel.com/) - 3:30-4:45pm
+
+Dec 9
+: Final Project Reports Due (no late days)
   
 <!---
-
-Mar 8
-: No Class
-
-
 
 Apr 6
 : [Explanation](https://aritter.github.io/CS-4650-au22/slides/lec21-explanation.pdf)
